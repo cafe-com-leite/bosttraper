@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    background-color: red;
+}
+
+#app {
+    background-color: aliceblue;
+}
+
+#myCarrossel
+{
+    background-color: red;
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
+
+#psicopato{
+    border-radius: 20%;
+}
+
+.container{
+    
+}
